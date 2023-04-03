@@ -1,4 +1,4 @@
-# Custom Object Detector for YOLO Images using Tensorflow
+# Custom MobileNetSSD Object Detector with YOLO Labels using Tensorflow
 Here, we will train SSD-MobileNet-V2 model for Basketball detection. We are going to use tensorflow-gpu 2.2 for this. I am using python version 3.8.10.
 
 <h2> Data Gathering </h2>

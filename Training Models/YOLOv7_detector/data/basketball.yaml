@@ -1,0 +1,6 @@
+train: ../yolov7/dataset/train/images
+val: ../yolov7/dataset/valid/images
+test: ../yolov7/dataset/test/images
+
+nc: 1
+names: ['basketball']
