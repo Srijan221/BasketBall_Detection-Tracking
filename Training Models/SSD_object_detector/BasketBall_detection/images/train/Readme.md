@@ -1,0 +1,1 @@
+In this directory we will have train images and their xml files

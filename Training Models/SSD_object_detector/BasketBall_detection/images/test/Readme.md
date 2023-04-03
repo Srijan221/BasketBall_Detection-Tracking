@@ -1,0 +1,1 @@
+In this directory we will have test images and their xml files

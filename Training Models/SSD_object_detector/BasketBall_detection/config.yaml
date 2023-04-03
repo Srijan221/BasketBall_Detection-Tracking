@@ -1,0 +1,3 @@
+images_path: '/home/srijan/Downloads/BasketBall_detection/images/yolo_images_with_labels'
+train_test_split: 0.2
+step_size_from_yaml: 2000
