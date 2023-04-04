@@ -37,7 +37,7 @@ Install dependendecies if any dependency is missing by using
 ```
 pip install -r requirements.txt
 ```
-Download the YOLOv7 model weights from here.
+Download the YOLOv7 model weights from here [`yolov7x.pt`](https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7x.pt), ['yolov7-tiny.pt](https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7-tiny.pt)
 
 Now we are ready for training our YOLOv7 models.
 
