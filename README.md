@@ -48,7 +48,7 @@ python main.py --show_live --draw_line --count_objects --graph 3D
 # Troubleshooting
 This code works **perfectly** with `python==3.8.10, tensorflow==2.8.0, torch== 1.8.0, sklearn==0.24.2` on local **Ubuntu: CPU** as well as **Nvidia 3060 single core GPU** as of `04/04/2023`.
 
-If you find anytrouble, please raise an issue.
+If you find any trouble, please raise an issue.
 
 
 # References
