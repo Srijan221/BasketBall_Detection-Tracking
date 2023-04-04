@@ -55,4 +55,3 @@ If you find anytrouble, please raise an issue.
 1. [YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors](https://github.com/WongKinYiu/yolov7)
 2. [Simple Online and Realtime Tracking with a Deep Association Metric (Deep SORT)](https://github.com/nwojke/deep_sort)
 3. [UC_Berkely_Basketball_dataset](https://universe.roboflow.com/uc-berkely-w210-tracer/tracer-basketball)
-4. 
