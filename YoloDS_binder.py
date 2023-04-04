@@ -252,7 +252,7 @@ class BasketBallTracker:
                 ax.set_zlabel('Y')
                 plt.ylim(ymin=0.0)
                 graph_path = output.split("/")[-1]
-                plt.savefig(f"Graph 3D- {graph_path}.png")
+                plt.savefig(f"IO_data/output/{graph_path}_3D_graph.png")
                 plt.show()
         elif graph == "2D":
             graph, (plot1, plot2) = plt.subplots(1, 2)
@@ -268,5 +268,6 @@ class BasketBallTracker:
 
             plot2.set_title("Time vs Y-Values")
             graph_path = output.split("/")[-1]
-            plt.savefig(f"Graph 2D- {graph_path}.png")
+            plt.tight_layout()
+            plt.savefig(f"IO_data/output/{graph_path}_2D_graph.png")
             plt.show()
