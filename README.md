@@ -45,13 +45,17 @@ python main.py --show_live --draw_line --count_objects --graph 3D
 
 ```
 
-# Troubleshooting
-This code works **perfectly** with `python==3.8.10, tensorflow==2.8.0, torch== 1.8.0, sklearn==0.24.2` on local **Ubuntu: CPU** as well as **Nvidia 3060 single core GPU** as of `04/04/2023`.
+## Outputs
+All the outputs, including videos, 2D and 3D plots of (x_center,y_center) coordinates of Basketball wrt time is available [here](https://github.com/Srijan221/BasketBall_Detection-Tracking/tree/main/IO_data/output).
 
-If you find any trouble, please raise an issue.
+## Troubleshooting
+This code works with `python==3.8.10, tensorflow==2.8.0, torch==1.8.0, sklearn==0.24.2` on local **Ubuntu: CPU** as well as **Nvidia 3060 single core GPU** as of `04/04/2023`.
+
+If you encounter any trouble, please raise an issue.
 
 
 # References
 1. [YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors](https://github.com/WongKinYiu/yolov7)
 2. [Simple Online and Realtime Tracking with a Deep Association Metric (Deep SORT)](https://github.com/nwojke/deep_sort)
 3. [UC_Berkely_Basketball_dataset](https://universe.roboflow.com/uc-berkely-w210-tracer/tracer-basketball)
+4. [DeepSORT Intuition](https://medium.com/augmented-startups/deepsort-deep-learning-applied-to-object-tracking-924f59f99104)
