@@ -51,7 +51,7 @@ All the outputs, including videos, 2D and 3D plots of (x_center,y_center) coordi
 ## Troubleshooting
 This code works with `python==3.8.10, tensorflow==2.8.0, torch==1.8.0, sklearn==0.24.2` on local **Ubuntu: CPU** as well as **Nvidia 3060 single core GPU** as of `04/04/2023`.
 
-If you encounter any trouble, please raise an issue.
+If you encounter any problem, please raise an issue.
 
 
 # References
